@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoingPlaces</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="Matrics">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+
+    <string-array name="Location">
+        <item>Land Mark</item>
+        <item>Historical</item>
+        <item>Modern</item>
+    </string-array>
+    <string name="title_activity_map2">Map</string>
+
+
+</resources>
